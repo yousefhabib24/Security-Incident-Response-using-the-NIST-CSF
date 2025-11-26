@@ -11,6 +11,7 @@ This project applied the **NIST Cybersecurity Framework (CSF)** to analyze and d
 * Enhancing **detection capabilities** through source IP verification and network monitoring.
 
 The report also outlined effective **response strategies**, including system isolation, log analysis, and escalation to management, while developing **recovery procedures** that prioritized the restoration of critical services and recommended long-term resilience measures. 
+
 ---
 
 ### 🛠️ Key Skills Applied
